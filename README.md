@@ -1,1 +1,1 @@
-# programming-paradigms
+# Semester III - Programming paradigms
